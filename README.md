@@ -1,1 +1,2 @@
-# Graph-Colouring
+# Graph Colouring
+I did this project in the 2nd year of my bachelor degree at University of Cambridge as part of abstract algebra coursework. Here we find lower and upper bounds of the chromatic number of a randomly generated graph with exponential time complexity . The file "statement.pdf" and "report.pdf" contain the problem statement and report of the project respectively. The MATLAB codes can be found in the "code" folder.
